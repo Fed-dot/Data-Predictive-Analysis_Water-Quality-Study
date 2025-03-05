@@ -2,7 +2,7 @@
 
 <br>
 
-Con questo progetto ho concluso il master in Data Science,con la soddisfazione di poter metter in pratica tutte leconoscenze acquisite durante il mio percorso.
+Con questo progetto ho concluso il master in Data Science,con la soddisfazione di poter metter in pratica tutte le conoscenze acquisite durante il mio percorso.
 Ho realizzato inizialmente un’analisi su un dataset contenente vari campioni di acqua catalogati secondo un indice di potabilità collegato a varie proprietà chimicofisiche, che ho poi vagliato in base alla loro rilevanza statistica.
 
 Infine ho utilizzato varie tecniche di Machine Learning per addestrare e selezionare un modello predittivo che potesse distinguere con precisione la potabilità di nuovi campioni.
